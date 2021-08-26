@@ -15,6 +15,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="5.0.9"/>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="5.0.9"/>
     <PackageReference Include="Stripe.net" Version="39.63.0"/>
+    <PackageReference Include="Twilio" Version="5.65.0"/>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BulkyBook.DataAccess\BulkyBook.DataAccess.csproj"/>
